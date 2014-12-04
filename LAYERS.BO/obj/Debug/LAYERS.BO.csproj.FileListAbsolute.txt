@@ -1,0 +1,7 @@
+G:\PROJECT\Akshay_Database\T144 - Team D\CaseStudy\Main\Project_Final\LAYERS.BO\bin\Debug\LAYERS.BO.dll
+G:\PROJECT\Akshay_Database\T144 - Team D\CaseStudy\Main\Project_Final\LAYERS.BO\bin\Debug\LAYERS.BO.pdb
+G:\PROJECT\Akshay_Database\T144 - Team D\CaseStudy\Main\Project_Final\LAYERS.BO\bin\Debug\LAYERS.TYPES.dll
+G:\PROJECT\Akshay_Database\T144 - Team D\CaseStudy\Main\Project_Final\LAYERS.BO\bin\Debug\LAYERS.TYPES.pdb
+G:\PROJECT\Akshay_Database\T144 - Team D\CaseStudy\Main\Project_Final\LAYERS.BO\obj\Debug\LAYERS.BO.csprojResolveAssemblyReference.cache
+G:\PROJECT\Akshay_Database\T144 - Team D\CaseStudy\Main\Project_Final\LAYERS.BO\obj\Debug\LAYERS.BO.dll
+G:\PROJECT\Akshay_Database\T144 - Team D\CaseStudy\Main\Project_Final\LAYERS.BO\obj\Debug\LAYERS.BO.pdb

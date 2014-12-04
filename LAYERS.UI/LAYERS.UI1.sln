@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAYERS.UI", "LAYERS.UI\LAYERS.UI.csproj", "{8C9FC1D7-1A87-456F-97CF-65AFD32B9150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAYERS.BO", "..\LAYERS.BO\LAYERS.BO.csproj", "{F0B3DBEF-79A7-4A61-BD90-009F9436960A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAYERS.BOFACTORY", "..\LAYERS.BOFACTORY\LAYERS.BOFACTORY.csproj", "{D349B31A-8AF0-4181-913A-58CF0FF87548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAYERS.TYPES", "..\LAYERS.TYPES\LAYERS.TYPES.csproj", "{7FE15660-89FF-4441-90C9-F178A0DA5640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAYERS.BLL", "..\LAYERS.BLL\LAYERS.BLL.csproj", "{424E8DF6-2E19-440C-BD14-76E101494673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAYERS.BLLFACTORY", "..\LAYERS.BLLFACTORY\LAYERS.BLLFACTORY.csproj", "{C1B2F9A0-C28B-41FD-8817-A5287542DDA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAYERS.DAL", "..\LAYERS.DAL\LAYERS.DAL.csproj", "{A9813165-CD65-4AF7-A4B2-752013B65A0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAYERS.DALFACTORY", "..\LAYERS.DALFACTORY\LAYERS.DALFACTORY.csproj", "{E2B5C495-8635-495D-89AB-1D25337B4BB3}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://intvmtfs02:8080/tfs/team
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LAYERS.UI\\LAYERS.UI.csproj
+		SccProjectName1 = LAYERS.UI
+		SccLocalPath1 = LAYERS.UI
+		SccProjectUniqueName2 = ..\\LAYERS.BO\\LAYERS.BO.csproj
+		SccProjectName2 = ../LAYERS.BO
+		SccLocalPath2 = ..\\LAYERS.BO
+		SccProjectUniqueName3 = ..\\LAYERS.BOFACTORY\\LAYERS.BOFACTORY.csproj
+		SccProjectName3 = ../LAYERS.BOFACTORY
+		SccLocalPath3 = ..\\LAYERS.BOFACTORY
+		SccProjectUniqueName4 = ..\\LAYERS.TYPES\\LAYERS.TYPES.csproj
+		SccProjectName4 = ../LAYERS.TYPES
+		SccLocalPath4 = ..\\LAYERS.TYPES
+		SccProjectUniqueName5 = ..\\LAYERS.BLL\\LAYERS.BLL.csproj
+		SccProjectName5 = ../LAYERS.BLL
+		SccLocalPath5 = ..\\LAYERS.BLL
+		SccProjectUniqueName6 = ..\\LAYERS.BLLFACTORY\\LAYERS.BLLFACTORY.csproj
+		SccProjectName6 = ../LAYERS.BLLFACTORY
+		SccLocalPath6 = ..\\LAYERS.BLLFACTORY
+		SccProjectUniqueName7 = ..\\LAYERS.DAL\\LAYERS.DAL.csproj
+		SccProjectName7 = ../LAYERS.DAL
+		SccLocalPath7 = ..\\LAYERS.DAL
+		SccProjectUniqueName8 = ..\\LAYERS.DALFACTORY\\LAYERS.DALFACTORY.csproj
+		SccProjectName8 = ../LAYERS.DALFACTORY
+		SccLocalPath8 = ..\\LAYERS.DALFACTORY
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C9FC1D7-1A87-456F-97CF-65AFD32B9150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9FC1D7-1A87-456F-97CF-65AFD32B9150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9FC1D7-1A87-456F-97CF-65AFD32B9150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9FC1D7-1A87-456F-97CF-65AFD32B9150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0B3DBEF-79A7-4A61-BD90-009F9436960A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B3DBEF-79A7-4A61-BD90-009F9436960A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B3DBEF-79A7-4A61-BD90-009F9436960A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B3DBEF-79A7-4A61-BD90-009F9436960A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D349B31A-8AF0-4181-913A-58CF0FF87548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D349B31A-8AF0-4181-913A-58CF0FF87548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D349B31A-8AF0-4181-913A-58CF0FF87548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D349B31A-8AF0-4181-913A-58CF0FF87548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE15660-89FF-4441-90C9-F178A0DA5640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE15660-89FF-4441-90C9-F178A0DA5640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE15660-89FF-4441-90C9-F178A0DA5640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE15660-89FF-4441-90C9-F178A0DA5640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{424E8DF6-2E19-440C-BD14-76E101494673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424E8DF6-2E19-440C-BD14-76E101494673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424E8DF6-2E19-440C-BD14-76E101494673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424E8DF6-2E19-440C-BD14-76E101494673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B2F9A0-C28B-41FD-8817-A5287542DDA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B2F9A0-C28B-41FD-8817-A5287542DDA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B2F9A0-C28B-41FD-8817-A5287542DDA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B2F9A0-C28B-41FD-8817-A5287542DDA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9813165-CD65-4AF7-A4B2-752013B65A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9813165-CD65-4AF7-A4B2-752013B65A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9813165-CD65-4AF7-A4B2-752013B65A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9813165-CD65-4AF7-A4B2-752013B65A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B5C495-8635-495D-89AB-1D25337B4BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B5C495-8635-495D-89AB-1D25337B4BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B5C495-8635-495D-89AB-1D25337B4BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B5C495-8635-495D-89AB-1D25337B4BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

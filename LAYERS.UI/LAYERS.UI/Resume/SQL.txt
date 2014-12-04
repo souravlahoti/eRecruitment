@@ -1,0 +1,11 @@
+create table Participant_759020
+(
+ParticipantID int identity(20,1) primary key,
+ID int references Project_759020(ID),
+EmployeeID int,
+EmployeeName varchar(50),
+LGName varchar(50)
+)
+
+drop table Participant_759020
+Select * from Participant_759020
